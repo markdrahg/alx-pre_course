@@ -1,2 +1,1 @@
-another readme for0x01.git
-README update from github.com
+this is a readme file for 0x01-git
